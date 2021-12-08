@@ -36,7 +36,7 @@ function App() {
   return (
     <div className={style.AppStyle}>
       <Formulario setTarefas={setTarefas} />
-      <Lista
+      <Lista  
         tarefas={tarefas}
         selecionaTarefa={selecionaTarefa}
       />

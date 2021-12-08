@@ -1,6 +1,6 @@
 import React from 'react';
 import { ITarefa } from '../../types/tarefa';
-import Item from './Item';
+import Item from './item/index';
 import style from './Lista.module.scss';
 
 interface Props {
