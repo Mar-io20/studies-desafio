@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/studies-desafio/static/css/main.b181b2b8.chunk.css",
-    "main.js": "/studies-desafio/static/js/main.52923768.chunk.js",
-    "main.js.map": "/studies-desafio/static/js/main.52923768.chunk.js.map",
+    "main.css": "/studies-desafio/static/css/main.29f7288d.chunk.css",
+    "main.js": "/studies-desafio/static/js/main.9d3c1afc.chunk.js",
+    "main.js.map": "/studies-desafio/static/js/main.9d3c1afc.chunk.js.map",
     "runtime-main.js": "/studies-desafio/static/js/runtime-main.975ed407.js",
     "runtime-main.js.map": "/studies-desafio/static/js/runtime-main.975ed407.js.map",
-    "static/js/2.ebbdd51f.chunk.js": "/studies-desafio/static/js/2.ebbdd51f.chunk.js",
-    "static/js/2.ebbdd51f.chunk.js.map": "/studies-desafio/static/js/2.ebbdd51f.chunk.js.map",
+    "static/js/2.c3eb98b3.chunk.js": "/studies-desafio/static/js/2.c3eb98b3.chunk.js",
+    "static/js/2.c3eb98b3.chunk.js.map": "/studies-desafio/static/js/2.c3eb98b3.chunk.js.map",
     "index.html": "/studies-desafio/index.html",
-    "static/css/main.b181b2b8.chunk.css.map": "/studies-desafio/static/css/main.b181b2b8.chunk.css.map",
-    "static/js/2.ebbdd51f.chunk.js.LICENSE.txt": "/studies-desafio/static/js/2.ebbdd51f.chunk.js.LICENSE.txt",
-    "static/media/Lista.module.scss": "/studies-desafio/static/media/check-mark.53f24c0a.svg"
+    "static/css/main.29f7288d.chunk.css.map": "/studies-desafio/static/css/main.29f7288d.chunk.css.map",
+    "static/js/2.c3eb98b3.chunk.js.LICENSE.txt": "/studies-desafio/static/js/2.c3eb98b3.chunk.js.LICENSE.txt",
+    "static/media/Item.module.scss": "/studies-desafio/static/media/check-mark.53f24c0a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.975ed407.js",
-    "static/js/2.ebbdd51f.chunk.js",
-    "static/css/main.b181b2b8.chunk.css",
-    "static/js/main.52923768.chunk.js"
+    "static/js/2.c3eb98b3.chunk.js",
+    "static/css/main.29f7288d.chunk.css",
+    "static/js/main.9d3c1afc.chunk.js"
   ]
 }
