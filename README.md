@@ -7,6 +7,7 @@ Ciar um cronometro com o tempo minimo de estudo, e uma lista de materias que ain
 ## O que eu aprendi com o projeto?
 
 - Criar um projto React com typescript utilizando npm com Create React App
+- Ainda estou adicionando...
 <!-- npx create-react-app nome-do-projeto --template typescript --use-npm -->
 
 
